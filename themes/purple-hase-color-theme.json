@@ -6,23 +6,191 @@
         //this one is inspired by the logitech pop keyboard :)
 
         //CONTRAST COLOURS
+
         //BASE COLOURS
-        "foreground": "#ff0000",
+        "focusBorder": "#8067CB",
+        "foreground": "#483C6A",
+        //  "disabledForeground": "#ff0000"
+        "widget.shadow": "#8067cb65",
+        "selection.background": "#0f11086b",
+        //  "descriptionForeground": "#ff0000"
+        //  "errorForeground": "#ffd4703a"
+        "icon.foreground": "#483C6A",
+        "sash.hoverBorder": "#8067CB",
         //WINDOW BOARDER
+        //  "window.activeBorder": "#ff0000",
+        //  "window.inactiveBorder": "#ff0000",
+
         //TEXT COLOURS
+        "textBlockQuote.background": "#E0D9F2",
+        //  "textBlockQuote.border": "#ff0000",
+        //  "textCodeBlock.background": "#ff0000",
+        "textLink.foreground": "#B9C07D",
+        //  "textPreformat.foreground": "#ff0000",
+        //  "textSeparator.foreground": "#ff0000",
+
         //ACTION COLOURS
+        "toolbar.hoverBackground": "#C0B3E5",
+        //  "toolbar.hoverOutline": "#ff0000",
+        "toolbar.activeBackground": "#907AD2",
         //BUTTON CONTROLS
+        "button.background": "#FFD470",
+        "button.foreground": "#483C6A",
+        //  "button.border": "#ff0000",
+        //  "button.separator": "#ff0000",
+        "button.hoverBackground": "#E8AC21",
+        "button.secondaryBackground": "#8F9560",
+        //  "button.secondaryForeground": "#ff0000",
+        "button.secondaryHoverBackground": "#646943",
+        "checkbox.background": "#D0C6EC",
+        "checkbox.foreground": "#483C6A",
+        "checkbox.border": "#483C6A",
+
         //DROPDOWN CONTROL
+        "dropdown.background": "#D0C6EC",
+        "dropdown.listBackground": "#C0B3E5",
+        "dropdown.border": "#483C6A",
+        "dropdown.foreground": "#483C6A",
         //INPUT CONTROL
+        "input.background": "#D0C6EC",
+        "input.border": "#483C6A",
+        "input.foreground": "#483C6A",
+        "input.placeholderForeground": "#A08DD8",
+        "inputOption.activeBackground": "#937ED3",
+        //  "inputOption.activeBorder": "#ff0000",
+        "inputOption.activeForeground": "#483C6A",
+        "inputOption.hoverBackground": "#A595DB",
+        //  "inputValidation.errorBackground": "#ff0000",
+        //  "inputValidation.errorForeground": "#ffffff",
+        //  "inputValidation.infoBackground": "#ff0000",
+        //idk what the rest of this stuff does 
         //SCOLL BAR CONTROL
+        "scrollbar.shadow": "#B4A5DF",
+        "scrollbarSlider.activeBackground": "#B4A5DF",
+        "scrollbarSlider.background": "#b5a5df9f",
+        "scrollbarSlider.hoverBackground": "#937ed383",
         //BADGE
+        "badge.foreground": "#E5E1F5",
+        "badge.background": "#A492D9",
         //PROGRESS BAR
+        "progressBar.background": "#937ED3",
         //LIST AND TREES
+        "list.activeSelectionBackground": "#937ed386",
+        "list.activeSelectionForeground": "#F0ECF9",
+        "list.activeSelectionIconForeground": "#F0ECF9",
+        "list.dropBackground": "#64529ba4",
+        //  "list.focusBackground": "#ff0000",
+        //  "list.focusForeground": "#ff0000",
+        //  "list.focusHighlightForeground": "#ff0000",
+        //  "list.focusOutline": "#ff0000",
+        //  "list.focusAndSelectionOutline": "#ff0000",
+        //  "list.highlightForeground": "#ff0000",
+        "list.hoverBackground": "#e0ddf07a",
+        //  "list.hoverForeground": "#ff0000",
+        //idk what these meeeaaaannn
+        
         //ACTIVITY BAR
+        "activityBar.background": "#B9C07D",
+        //  "activityBar.dropBorder": "#ff0000",
+        "activityBar.foreground": "#FFFFFF",
+        "activityBar.inactiveForeground": "#FFFFFF",
+        "activityBarBadge.background": "#FFC847",
+        "activityBarBadge.foreground": "#FFFFFF",
+        "activityBar.activeBackground": "#98A06A",
+        "activityBar.activeFocusBorder": "#98A06A",
+        //  "activityBarItem.settingsProfilesForeground": "#ff0000",
+        //  "activityBarItem.settingsProfilesBackground": "#ff0000",
+        //  "activityBarItem.settingsProfilesHoverForeground": "#ff0000",
+
         //SIDE BAR
+        "sideBar.background": "#F8F6FC",
+        //  "sideBar.foreground": "#ff0000",
+        "sideBar.border": "#CAC1EB",
+        //  "sideBar.dropBackground": "#ff0000",
+        //  "sideBarTitle.foreground": "#ff0000",
+        "sideBarSectionHeader.background": "#E5E0F5",
+        //  "sideBarSectionHeader.foreground": "#ff0000",
+        "sideBarSectionHeader.border": "#D8D1F0",
+
         //MINIMAP
+        "minimap.findMatchHighlight": "#828958",
+        "minimap.selectionHighlight": "#FFC847",
+        "minimap.errorHighlight": "#0f11083f",
+        //  "minimap.background": "#F2F0FA",
+        "minimap.selectionOccurrenceHighlight": "#64529B",
+        //"minimapGutter.addedBackground": "#ff0000",
+
         //EDITOR GROUPS & TABS
+        "editorGroup.border": "#483C6A",
+        "editorGroup.dropBackground": "#beb2e677",
+        "editorGroupHeader.noTabsBackground": "#BEB2E6",
+        "editorGroupHeader.tabsBackground": "#D8D1F0",
+        "editorGroupHeader.tabsBorder": "#CBC1EB",
+        //  "editorGroupHeader.border": "#ff0000",
+        "editorGroup.emptyBackground": "#D8D1F0",
+        "editorGroup.dropIntoPromptForeground": "#FFFFFF",
+        "editorGroup.dropIntoPromptBackground": "#B9C07D",
+        //  "editorGroup.dropIntoPromptBorder": "#ff0000",
+        "tab.activeBackground": "#D8D1F0",
+        "tab.unfocusedActiveBackground": "#E5E0F5",
+        "tab.activeForeground": "#FFFFFF",
+        //  "tab.unfocusedActiveBorder": "#ff0000",
+        //  "tab.border": "#ff0000",
+        //  "tab.activeBorder": "#ff0000",
+        //  "tab.activeBorderTop": "#ff0000",
+        //  "tab.unfocusedActiveBorderTop": "#ff0000",
+        //  "tab.lastPinnedBorder": "#ff0000",
+        "tab.inactiveBackground": "#F0ECF9",
+        //  "tab.unfocusedInactiveBackground": "#ff0000",
+        "tab.inactiveForeground": "#483C6A",
+        "tab.unfocusedActiveForeground": "#483C6A",
+        "tab.unfocusedInactiveForeground": "#483C6A",
+        "tab.hoverBackground": "#E5E0F5",
+        "tab.unfocusedHoverBackground": "#D8D1F0",
+        //"tab.unfocusedHoverBorder": "#ff0000",
+        //  "editorPane.background": "#ff0000",
+        "sideBySideEditor.horizontalBorder": "#483C6A",
+        "sideBySideEditor.verticalBorder": "#483C6A",
+
         //EDITOR COLOURS
+        "editor.background": "#F0ECF9",
+        "editor.foreground": "#483C6A",
+        "editorLineNumber.foreground": "#B9C07D",
+        "editorLineNumber.activeForeground": "#5E6440",
+        //  "editorCursor.background": "#ff0000",
+        "editorCursor.foreground": "#8067CB",
+        "editor.selectionBackground": "#64529b98",
+        //  "editor.selectionForeground": "#ff0000",
+        //  "editor.inactiveSelectionBackground": "#ff0000",
+        "editor.selectionHighlightBackground": "#b9c07d73",
+        "editor.wordHighlightBackground": "#5e644048",
+        "editor.wordHighlightStrongBackground": "#757c5073",
+        "editor.wordHighlightBorder": "#cbcfb48e",
+        "editor.findMatchBackground": "#a695db63",
+        "editor.findMatchHighlightBackground": "#CBCFB4",
+        "editor.findRangeHighlightBackground": "#CBCFB4",
+        //"editor.findMatchBorder": "#ff0000",
+        //"editor.findMatchHighlightBorder": "#ff0000",
+        //"editor.findRangeHighlightBorder": "#ff0000",
+        "editor.hoverHighlightBackground": "#64529b56",
+        "editor.lineHighlightBackground": "#D8D1F0",
+        "editor.rangeHighlightBackground": "#E5E0F5",
+        //  "editor.symbolHighlightBackground": "#a9af8349",
+        "editorWhitespace.foreground": "#B3B78F",
+        "editorIndentGuide.background": "#A3A776",
+        //  "editorCodeLens.foreground": "#ff0000",
+        "editorBracketMatch.background": "#b9c07d88",
+        "editorBracketMatch.border": "#9BA06A",
+        "editorBracketHighlight.foreground1": "#97dffc",
+        "editorBracketHighlight.foreground2": "#8eb5f0",
+        "editorBracketHighlight.foreground3": "#858ae3",
+        "editorBracketHighlight.foreground4": "#7364d2",
+        "editorBracketHighlight.foreground5": "#613dc1",
+        "editorBracketHighlight.foreground6": "#5829a7",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#fcc602",
+        "editor.foldBackground": "#7669a37e",
+
+
         //DIFF EDITOR COLOUR (for colouring inserted and removed text)
         //EDITOR WIDGET  COLOUR
         //PEEK VIEW COLURS
@@ -52,7 +220,6 @@
         //NOTEBOOK COLOURS
         //CHART COLOURS
         //PORT COLOURS
-
-        "editor.background": "#ff0000"
+        "ports.iconRunningProcessForeground": "#ff0000"
     }
 }

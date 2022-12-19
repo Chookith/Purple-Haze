@@ -1,42 +1,45 @@
 {
-    "name": "coffee-theme-light",
-    "displayName": "Morning Coffee i ",
-    "description": "Theme for the early morning coders",
-    "publisher": "Chookith",
-    "author": {
-      "name":"Chookith"
-    },
-    "licenses": [],
-    "version": "1.0.0",
-    "engines": {
-      "vscode": "^1.22.0"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Chookith/light-coffee.git"
-    },
-    "homepage": "https://github.com/Chookith/light-coffee#readme",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Chookith/light-coffee/issues"
-    },
-    "galleryBanner": {
-      "color": "#9b6f4f",
-      "theme": "light"
-    },
-    "keywords": [
-      "Theme",
-      "coffee"
-    ],
+  "name": "purple-hase",
+  "displayName": "Purple Hase",
+  "description": "theme for those of us bright but cloudy",
+  "publisher": "Chookith",
+  "author": {
+    "name": "Chookith"
+  },
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chookith/purple-tones.git"
+  },
+  "homepage": "https://github.com/Chookith/purple-tones/blob/de923b9486b62c3ce84ef9c5e5de7c635047fceb/README.md",
+  "bugs": {
+    "url": "https://github.com/Chookith/purple-tones/issues"
+  },
   
-    "contributes": {
-      "themes": [
-        {
-          "label": "Morning Coffee i",
-          "uiTheme": "vs-dark",
-          "path": "./themes/Morning-Coffee-i-color-theme.json"
-        }
-      ]
-    }
-  
+  "galleryBanner": {
+    "color": "#4e2c17",
+    "theme": "light"
+  },
+  "keywords": [
+    "Theme",
+    "Dark",
+    "dark theme",
+    "chookith",
+    "coffee",
+    "cream",
+    "beige",
+    "brown"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Hase",
+        "uiTheme": "vs",
+        "path": "./themes/purple-hase-color-theme.json"
+      }
+    ]
   }
+}
