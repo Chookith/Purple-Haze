@@ -2,7 +2,57 @@
     "name": "Purple Hase Light",
     "type": "Light",
     "colors":{
-        //no contrast colours
+        //ok this will reflecct the API
+        //this one is inspired by the logitech pop keyboard :)
+
+        //CONTRAST COLOURS
+        //BASE COLOURS
+        "foreground": "#ff0000",
+        //WINDOW BOARDER
+        //TEXT COLOURS
+        //ACTION COLOURS
+        //BUTTON CONTROLS
+        //DROPDOWN CONTROL
+        //INPUT CONTROL
+        //SCOLL BAR CONTROL
+        //BADGE
+        //PROGRESS BAR
+        //LIST AND TREES
+        //ACTIVITY BAR
+        //SIDE BAR
+        //MINIMAP
+        //EDITOR GROUPS & TABS
+        //EDITOR COLOURS
+        //DIFF EDITOR COLOUR (for colouring inserted and removed text)
+        //EDITOR WIDGET  COLOUR
+        //PEEK VIEW COLURS
+        // MERGE CONFLICTS COLOURS
+        //PANEL COLOURS
+        //STATUS BAR COLOURS
+        //TITLE BAR COLOURS
+        //MENU BAR COLOURS
+        //COMMAND CENTRE COLOURS
+        //NOTIFICATION COLOURS
+        //BAMMER COLOURS
+        //EXTENSION COLOURS
+        //QUICK PICKER COLOURS
+        //KEYBINDING LABEL COLOURS
+        //KEYBINDING LABEL COLOURS
+        //KEYBOARD SHORTCUT TABLE COLOURS
+        //INTERGRATED TERMINAL COLOURS
+        //DEBUG COLOURS
+        //TESTING COLOURS
+        //WELCOME PAGE COLOURS
+        //SOURCE CONTROL COLOURS
+        //GIT COLOURS
+        //SETTING EDITOR COLOURS
+        //BREADCRUMB COLOURS
+        //SYMBOL ICON COLOURS
+        //DEBUG ICON COLOURS
+        //NOTEBOOK COLOURS
+        //CHART COLOURS
+        //PORT COLOURS
+
         "editor.background": "#ff0000"
     }
 }
