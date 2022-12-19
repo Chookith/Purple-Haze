@@ -1,0 +1,8 @@
+{
+    "name": "Purple Hase Light",
+    "type": "Light",
+    "colors":{
+        //no contrast colours
+        "editor.background": "#ff0000"
+    }
+}
