@@ -192,7 +192,12 @@
 
 
         //DIFF EDITOR COLOUR (for colouring inserted and removed text)
-        //EDITOR WIDGET  COLOUR
+        //dog idk wtf this is....
+        //EDITOR WIDGET COLOUR
+        "editorSuggestWidget.focusHighlightForeground": "#7358C6",
+        "editorSuggestWidget.highlightForeground": "#767C50",
+        "editorSuggestWidget.selectedIconForeground": "#7358C6",
+        "editorGhostText.foreground": "#767C50",
         //PEEK VIEW COLURS
         // MERGE CONFLICTS COLOURS
         //PANEL COLOURS
