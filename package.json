@@ -1,7 +1,7 @@
 {
   "name": "purple-hase",
   "displayName": "Purple Hase",
-  "description": "theme for those of us bright but cloudy",
+  "description": "theme for those of us colorful but cloudy",
   "publisher": "Chookith",
   "author": {
     "name": "Chookith"
@@ -20,18 +20,29 @@
   },
   
   "galleryBanner": {
-    "color": "#4e2c17",
+    "color": "#806FAE",
     "theme": "light"
   },
   "keywords": [
+    "theme",
     "Theme",
-    "Dark",
-    "dark theme",
+    "light",
+    "Light",
+    "light theme",
+    "Light theme",
     "chookith",
-    "coffee",
-    "cream",
-    "beige",
-    "brown"
+    "Purple",
+    "purple",
+    "Green",
+    "green",
+    "Yellow",
+    "yellow",
+    "Violet",
+    "violet",
+    "Hase",
+    "hase",
+    "purple hase",
+    "Purple Hase"
   ],
   "contributes": {
     "themes": [
